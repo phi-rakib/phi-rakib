@@ -16,7 +16,7 @@ I'm a passionate backend developer with a knack for problem-solving. My journey 
 
 ## Get in Touch
 - **GitHub**: [phi-rakib](https://github.com/phi-rakib)
-- **StackOverflow**: [mr-hr](https://stackoverflow.com/users/14467639/mr-hr)
+- **StackOverflow**: [phi-rakib](https://stackoverflow.com/users/14467639/phi-rakib)
 - **Email**: mdrakibulhaider.int@gmail.com
 
 ## Let's Connect!
